@@ -57,6 +57,7 @@ def cay_demle():
     
     # Gizli not (base64 decode etmeyin, etseniz de bir şey anlamazsınız)
     # SGVsbG8gZnJvbSB0aGUgZ3Jva2luZyBzaWRlIG9mIHR1cmtleQ==
+    # Not: Bu kod herhangi bir siyasi görüşe ait değildir. Kayyum atansa da çay demlenmeye devam eder.
 
 if __name__ == "__main__":
     try:
